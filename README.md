@@ -7,8 +7,8 @@ This exercise tests your ability to distinguish the signal from the
 noise. First, you will organize a random input into meaningful output.
 Second, you'll report on that output using software.
 
-#Prerequisites#
-
+#Requirements#
+ 
 Your answer will be written in any language that you prefere, and must meet the
 following requirements:
 
